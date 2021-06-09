@@ -25,3 +25,5 @@
 - In our previous step we define <b>rajtopic</b> thus, we can access it from AWS IOT core.
 - Goto IOT-Core --> Test --> MQTT Client Test
 <img src="img/2/12.png">
+
+<U><b>I have assigned administrator preveliges to the user inside IAM</b></u>
