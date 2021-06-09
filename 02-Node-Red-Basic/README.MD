@@ -22,3 +22,6 @@
 <img src="img/2/11.png"/>
 
 # 3 Accessing topic in AWS IOT #
+- In our previous step we define <b>rajtopic</b> thus, we can access it from AWS IOT core.
+- Goto IOT-Core --> Test --> MQTT Client Test
+<img src="img/2/12.png">
