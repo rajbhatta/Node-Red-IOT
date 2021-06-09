@@ -27,4 +27,5 @@
 <img src="img/2/12.png">
 
 <U><b>I have assigned administrator previlege to the user inside IAM</b></u>
-<b> Make sure to do deploy after making chages in NodeRed </b>
+<br/>
+<b> Make sure to do deploy after making changes in NodeRed </b>
